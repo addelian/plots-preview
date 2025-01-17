@@ -1,0 +1,21 @@
+* {
+    /* color: #5D1451;
+    background-color: #EFC0FE; */
+    background-color: #3F012C;
+    color: #FDB147;
+    font-family: sans-serif;
+}
+
+body {
+    margin: 3em;
+    line-height: 1.2;
+}
+
+a {
+    color: #017A79;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 5em;
+}
