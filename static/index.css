@@ -12,7 +12,13 @@ body {
 }
 
 a {
-    color: #017A79;
+    color: #01BCBB;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+a:visited{
+    color: #FFEACC;
     font-weight: bold;
 }
 
