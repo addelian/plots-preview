@@ -1,25 +1,26 @@
-* {
-    /* color: #5D1451;
-    background-color: #EFC0FE; */
+body {
     background-color: #3F012C;
     color: #FDB147;
     font-family: sans-serif;
-}
-
-body {
     margin: 3em;
     line-height: 1.2;
 }
 
 a {
     color: #01BCBB;
-    font-weight: bold;
     line-height: 1.6;
+}
+
+a:hover {
+    text-shadow: 0 0 .8px #01BCBB, 0 0 .8px #01BCBB;
+}
+
+a:visited:hover {
+    text-shadow: 0 0 .8px #FFEACC, 0 0 .8px #FFEACC;
 }
 
 a:visited{
     color: #FFEACC;
-    font-weight: bold;
 }
 
 .footer {
